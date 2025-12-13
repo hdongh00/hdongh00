@@ -1,4 +1,4 @@
-# 🚀 Backend & System Engineer
+#  Backend & Engineer
 > **"비즈니스 로직을 넘어, 서비스의 안정성까지 고민하는 개발자입니다."**
 
 안정적인 서버 운영과 효율적인 데이터 처리에 관심이 많습니다.  
@@ -28,15 +28,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Using Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hdongh00&show_icons=true&theme=cobalt" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdongh00&layout=compact&theme=cobalt" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hdongh00&show_icons=true&theme=dark" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdongh00&layout=compact&theme=dark" height="180" alt="languages graph" />
 </div>
 
 ---
-
-### 📫 Contact
-- 📧 Email: (본인 이메일 주소 입력)
-- 📝 Blog: (블로그 주소 입력, 없으면 이 줄 삭제)
