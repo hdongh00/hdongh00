@@ -31,9 +31,9 @@
 ### 📊 GitHub Stats & Using Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hdongh00&show_icons=true&theme=dark" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hdongh00&show_icons=true&theme=default" height="180" alt="stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdongh00&layout=compact&theme=dark" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdongh00&layout=compact&theme=default" height="180" alt="langs" />
 </div>
 
 ---
